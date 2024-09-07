@@ -52,3 +52,4 @@ Todo mundo é bem-vindo! Se você quiser adicionar mais jogos, melhorar a interf
 * **Licença:** Para definir como outros podem usar o código.
 * **Changelog:** Para registrar as mudanças ao longo do tempo.
 
+cusro-imersao.vercel.app
